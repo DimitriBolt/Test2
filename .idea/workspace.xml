@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c1ef76e6-4f9b-41f5-9c83-24de884c3291" name="Changes" comment="">
+    <list default="true" id="c1ef76e6-4f9b-41f5-9c83-24de884c3291" name="Changes" comment="Первый">
       <change afterPath="$PROJECT_DIR$/.idea/NeuralNetWorkIn9Rows.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -125,12 +125,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1718639761963</updated>
-      <workItem from="1718639763688" duration="5120000" />
+      <workItem from="1718639763688" duration="5560000" />
     </task>
+    <task id="LOCAL-00001" summary="Первый">
+      <option name="closed" value="true" />
+      <created>1718649426910</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718649426910</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Первый" />
+    <option name="LAST_COMMIT_MESSAGE" value="Первый" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
